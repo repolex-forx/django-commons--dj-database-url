@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "django-commons",
+  "repo": "dj-database-url",
+  "versions": [
+    {
+      "commit": "9e2eab246532e6faa3037ebc0ffb433ea9eb2356",
+      "parsed_at": "2026-11-02T18:19:09.750144+00:00",
+      "filetree": "filetree/9e2eab246532e6faa3037ebc0ffb433ea9eb2356.nq.gz",
+      "blobs": [
+        "blob/b9a7560fa83c5554142c6ffa2b2d648a3ba443b0.nq.gz",
+        "blob/9157693fb54d850348583e530580203bfce50b01.nq.gz",
+        "blob/998421d93aae6b4ec31b237953cdbe0290458aaa.nq.gz",
+        "blob/88e457a64b144b15ba36b3ec6e14fc67d0561590.nq.gz",
+        "blob/4385f7353abc7d3b505825dae3a5c063737fe870.nq.gz",
+        "blob/a332e24c9f3665853457fce1d0bca685105d93c8.nq.gz",
+        "blob/00d3cc9c1dcf4ef1fba69c594536e712d71182d6.nq.gz",
+        "blob/44540c8ef06d4b56760c11058f368c2265de532c.nq.gz",
+        "blob/3aaf15160fdd8c073080582783ad1207ec9cf598.nq.gz",
+        "blob/4a0c37517ffbc49902c9f2ecfd5c156ad0f6e4fc.nq.gz",
+        "blob/8bf0c461d9c9f7d1b128463ba3c00e3ef307c2f4.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8c592a2e54427fbd741ff1dd6eea1d2bfd52737e.nq.gz",
+        "blob/7b49b475f9dafa1d385497220471baf77bb1374c.nq.gz",
+        "blob/c7520c8217137780b17f902a4071d532184ab423.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
