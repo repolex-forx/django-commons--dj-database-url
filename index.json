@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "dj-database-url",
+  "versions": [
+    {
+      "commit": "9e2eab246532e6faa3037ebc0ffb433ea9eb2356",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:22:03.012364+00:00"
+    }
+  ]
+}
