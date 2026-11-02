@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-commons/dj-database-url/commit/9e2eab246532e6faa3037ebc0ffb433ea9eb2356",
       "git:hexsha": "9e2eab246532e6faa3037ebc0ffb433ea9eb2356",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:22:03.011823+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/dj-database-url/commit/7462e79d515078f8034dd51b2b05dd208d9fa691",
